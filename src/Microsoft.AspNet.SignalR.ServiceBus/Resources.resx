@@ -181,4 +181,7 @@ values or invokes the AsyncCallback multiple times.</value>
   <data name="Error_ValueSuppliedMustBeBetween" xml:space="preserve">
     <value>The value supplied must be between {0} and {1}.</value>
   </data>
+  <data name="Error_InvalidConnectionString" xml:space="preserve">
+    <value>Invalid connection string '{0}': {1}</value>
+  </data>
 </root>
